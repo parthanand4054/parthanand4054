@@ -24,6 +24,6 @@
 - [AR Development Techniques 04: Advanced Techniques](https://www.linkedin.com/learning/ar-development-techniques-04-advanced-techniques)
 
 #### Udemy Courses
-- [Project 1](#)
-- [Project 2](#)
+- [Augmented Reality Watch Try-On Using Unity & Vuforia](https://www.udemy.com/course/augmented-reality-watch-try-on-app-using-vuforia-unity/)
+- [Augmented Reality Portal using Apple's ARKit](https://www.udemy.com/course/arkit-portal-learn-how-to-create-a-portal-using-arkit/)
 

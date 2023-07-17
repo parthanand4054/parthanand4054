@@ -2,8 +2,7 @@
 ## Software Developer, Instructor & Speaker
 
 ### Computer Vision Projects 🖥️
-- [Project 1](#)
-- [Project 2](#)
+#### Coming Soon :)
 
 ### Augmented Reality Projects 🕶️
 - [AR Car Customizer](https://www.youtube.com/watch?v=CrfjDmprlu4)

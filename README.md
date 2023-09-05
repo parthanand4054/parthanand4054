@@ -2,7 +2,8 @@
 ## Software Developer, Instructor & Speaker
 
 ### Computer Vision Projects 🖥️
-#### Coming Soon :)
+- [Paint Walls Using Segmentation (OpenCV & Meta's SAM Model)]([https://www.youtube.com/watch?v=CrfjDmprlu4](https://github.com/parthanand4054/Computer-Vision-Wall-Paint-Project))
+
 
 ### Augmented Reality Projects 🕶️
 - [AR Car Customizer](https://www.youtube.com/watch?v=CrfjDmprlu4)

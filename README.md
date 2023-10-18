@@ -5,7 +5,7 @@
 - [Paint Walls Using Segmentation (OpenCV & Meta's SAM Model)](https://github.com/parthanand4054/Computer-Vision-Wall-Paint-Project)
 
 
-### Augmented Reality Projects 🕶️
+### Augmented Reality Projects
 - [AR Car Customizer](https://www.youtube.com/watch?v=CrfjDmprlu4)
 - [AR Watch Try-On](https://www.youtube.com/watch?v=_BU1yMAScxw)
 - [AR Car Wheels try-On](https://youtu.be/6Cq1f6fRN3c?t=89)

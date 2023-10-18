@@ -1,7 +1,7 @@
 # Hi, I am Parth! 👋
 ## Software Developer, Instructor & Speaker
 
-### Computer Vision Projects 🖥️
+### Computer Vision Projects
 - [Paint Walls Using Segmentation (OpenCV & Meta's SAM Model)](https://github.com/parthanand4054/Computer-Vision-Wall-Paint-Project)
 
 
